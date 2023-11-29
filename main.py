@@ -5,6 +5,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 
 """
+默认不存在 static/font、static/image 目录, 请自行创建
 执行前需在 static/font 中放入名为 title、text 的字体文件
 执行前需在 static/image 中放入名为 cover_background.png 的背景文件
 """
